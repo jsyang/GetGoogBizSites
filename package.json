@@ -1,0 +1,13 @@
+{
+  "name": "showsomeinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jsyang <jsyang.ca@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "serpapi": "^2.0.0"
+  }
+}
