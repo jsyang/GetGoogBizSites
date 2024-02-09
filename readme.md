@@ -3,7 +3,7 @@
 Idea from this [r/Entrepreneur thread](https://www.reddit.com/r/Entrepreneur/comments/1alt3ga/are_you_a_webdesigner_this_is_you_chance_to_get/). 
 Thanks to the OP for an interesting idea!
 
-![help page on shutdown](Screen Shot 2024-02-09 at 1.15.34 PM.png)
+<img src="Screen Shot 2024-02-09 at 1.15.34 PM.png">
 
 ## How to use
 
