@@ -42,11 +42,18 @@ yarn start Leeds UK
 yarn start cafe York UK
 ```
 
+- You can edit the `index.mjs` file to specify a search provider:
+    - `Providers.VENDORS.goog` for Google
+    - `Providers.VENDORS.duck` for DuckDuckGo
+
 ## Why don't I get more than about 300 results?
 
 **Short answer**: Google limits the number of total results shown to visitors. See for yourself by performing the same search manually...
 
-**Long answer**: https://serpapi.com/blog/googles-millions-of-search-results-are-not-being-served-in-the-later-pages-search-results/
+**Long answers**: 
+
+- [Google’s “million’s of search results” are not being served in the later pages search results](https://serpapi.com/blog/googles-millions-of-search-results-are-not-being-served-in-the-later-pages-search-results/)
+- [Google says search has millions of results i only get a 30 pages of mayvbe 6-10 results per page?](https://support.google.com/websearch/thread/206920626/google-says-search-has-millions-of-results-i-only-get-a-30-pages-of-mayvbe-6-10-results-per-page)
 
 ## License
 
